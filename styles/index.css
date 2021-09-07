@@ -1,0 +1,37 @@
+.drawkit {
+    max-width: 295px;
+    width: 100%;
+    margin-top: 91px;
+    margin-left: 242px;
+    margin-right: 1383px;
+    margin-bottom: 795;
+}
+
+.section {
+    display: inline-block;
+}
+    
+.title {
+    max-width: 629.74px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif; 
+    Font-style: Bold;
+    font-weight: 700; 
+    Font-size: 94.72px;
+    Line-height: 118.3px;
+    Line-height: 83%;
+    Align: Left;
+    Vertical align: Top;
+    Fill: Solid #3E3E3E;
+    margin-top: 137.17px;
+    margin-left: 239.26px;    
+}
+
+
+.illustration {
+    max-width: 524px;
+    width: 100%;
+    margin-top: 33.75px;
+    margin-left: 239px;
+    
+}
